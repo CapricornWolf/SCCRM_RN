@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+import Login from './js/Login'
 export default class SCCRM_RN extends Component {
   render() {
     return (
