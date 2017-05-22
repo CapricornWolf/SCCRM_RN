@@ -32,7 +32,7 @@ export default class Login extends Component {
             <ScrollView>
                 <Image source={require('./img/bg_login.png')} style={styles.content}>
                     <Image source={require('./img/ic_logo_login.png')} style={{height:95, resizeMode:'contain'}}/>
-                    <Text style={[styles.textLarge, {marginBottom: 40}]}>智慧销售管理平台</Text>
+                    <Text style={[styles.textLarge, {marginBottom: 40}]}>智慧销售管理平台123</Text>
 
                     <View style={[styles.paddingHorizontal, styles.layoutHorizontal]}>
                         <Text style={styles.textNormal}>用户名</Text>
